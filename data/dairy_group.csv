@@ -1,0 +1,151 @@
+,dairy_group
+0,Arroz con leche
+1,Batido de chocolate
+2,Batido de fresa
+3,Batido de soja
+4,Batido fermentado de soja
+5,"Batido lácteo de cacao, bajo en calorías"
+6,"Batido lácteo, de fresa, bajo en calorías"
+7,Bebida de soja
+8,Crema catalana
+9,Cremoso san millan
+10,Cuajada
+11,Flan de huevo
+12,Helado de chocolate
+13,Helado de fresa
+14,Helado de nata
+15,Kefir
+16,Lactosa
+17,"Leche condensada, entera, con azúcar"
+18,Leche de almendra
+19,Leche de cabra
+20,Leche de coco
+21,Leche de oveja
+22,"Leche de vaca, desnatada, condensada, con azúcar"
+23,"Leche de vaca, entera"
+24,"Leche en polvo, semidesnatada"
+25,"Leche fermentada, bifidobacterium, entera, natural"
+26,Leche materna
+27,Leche merengada
+28,"Leche, desnatada, pasteurizada"
+29,"Leche, semidesnatada, pasteurizada"
+30,Mousse de chocolate
+31,"Mousse de queso fresco, con frutas"
+32,"Mousse de queso fresco, desnatado, azucarado"
+33,"Mousse de queso fresco, desnatado, con frutas"
+34,"Mousse de yogur, con frutas"
+35,"Mousse de yogur, natural"
+36,"Nata, líquida, para cocinar, 18% de grasa"
+37,Natillas sabor vainilla
+38,"Petit líquido, sabor fresa"
+39,"Petit suïsse, cereales y fruta"
+40,"Petit suisse, chocolate"
+41,"Petit suisse, fresa"
+42,"Petit Suisse, natural azucarado"
+43,Preparado lácteo con omega 3
+44,Queso afuega'l pitu
+45,Queso ahumado de aliva
+46,Queso azul
+47,Queso brie
+48,"Queso cabra, curado"
+49,Queso cabrales
+50,Queso Camembert 20-30% MG/ES
+51,Queso camembert 60% mg/es
+52,Queso cantabria
+53,Queso casín
+54,Queso Castellano
+55,Queso cebreiro
+56,Queso Cheddar
+57,"Queso curado, genérico"
+58,Queso de aracena
+59,Queso de arzúa
+60,Queso de bola
+61,Queso de cádiz
+62,"Queso de Castilla-La Mancha, oveja y cabra"
+63,"Queso de Castilla-La Mancha, oveja, vaca y cabra"
+64,"Queso de castilla-león, oveja y vaca"
+65,"Queso de murcia, al vino"
+66,Queso de tenerife
+67,Queso de tiétar
+68,Queso edam
+69,Queso emmental
+70,Queso en porciones
+71,Queso flor de guía
+72,Queso fresco de burgos
+73,"Queso fresco, cabra"
+74,"Queso fresco, desnatado, con frutas"
+75,"Queso fundido, extragraso (>60% MG/ES)"
+76,Queso gata-hurdes
+77,Queso gaztazarra
+78,Queso Gouda
+79,Queso grazalema
+80,Queso Gruyer
+81,Queso herreño
+82,Queso Ibores
+83,Queso Mahón
+84,Queso majorero
+85,Queso manchego
+86,"Queso manchego, en aceite"
+87,Queso mozzarella
+88,Queso munster
+89,Queso para untar
+90,"Queso para untar, con finas hierbas"
+91,"Queso para untar, con salmón"
+92,"Queso para untar, natural, bajo en calorías"
+93,Queso parmesano
+94,Queso pasiego
+95,Queso pedroches
+96,Queso peñamellera
+97,Queso picón
+98,Queso porrúa
+99,Queso Raclette
+100,"Queso rallado, genérico"
+101,Queso roquefort
+102,Queso San Simón
+103,"Queso semicurado, genérico"
+104,Queso serrat
+105,Queso servilleta
+106,Queso Tetilla
+107,"Queso tierno, genérico"
+108,Queso torta del casar
+109,Queso tupí
+110,Queso Zamorano
+111,Requesón
+112,Yogur griego
+113,"Yogur líquido, ""tipo actimel"""
+114,"Yogur líquido, aromatizado sabor s/e"
+115,"Yogur líquido, con frutas s/e"
+116,"Yogur líquido, entero, con cereales"
+117,"Yogur líquido, natural, azucarado"
+118,"Yogur, búlgaro"
+119,"Yogur, desnatado, aromatizado sabor s/e"
+120,"Yogur, desnatado, con cereales"
+121,"Yogur, desnatado, con cereales, manzana y ciruela"
+122,"Yogur, desnatado, con cereza y frambuesa"
+123,"Yogur, desnatado, con ciruela, albaricoque y fibra"
+124,"Yogur, desnatado, con fresa, grosella y fibra"
+125,"Yogur, desnatado, con frutas"
+126,"Yogur, desnatado, con frutas del bosque"
+127,"Yogur, desnatado, con frutas tropicales"
+128,"Yogur, desnatado, con manzana"
+129,"Yogur, desnatado, con melocotón y maracuyá"
+130,"Yogur, desnatado, con melocotón, frambuesa y fibra"
+131,"Yogur, desnatado, con piña y pomelo"
+132,"Yogur, desnatado, sabor natural"
+133,"Yogur, desnatado, sabor natural, azucarado"
+134,"Yogur, desnatado, sabor vainilla"
+135,"Yogur, enriquecido, con frutas"
+136,"Yogur, enriquecido, natural"
+137,"Yogur, enriquecido, natural, azucarado"
+138,"Yogur, enriquecido, natural, con nata"
+139,"Yogur, enriquecido, sabor, s/e"
+140,"Yogur, entero, con cereales y fresas"
+141,"Yogur, entero, con fresas"
+142,"Yogur, entero, con frutas del bosque"
+143,"Yogur, líquido, desnatado, natural"
+144,"Yogur, líquido, entero, con fresas"
+145,"Yogur, líquido, entero, con frutas"
+146,"Yogur, líquido, entero, sabor fresa"
+147,"Yogur, líquido, entero, sabor fresa y plátano"
+148,"Yogur, líquido, entero, sabor frutas del bosque"
+149,"Yogur, líquido, entero, sabor piña y coco"

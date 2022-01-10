@@ -1,0 +1,81 @@
+,drinks_group
+0,Agua de la red
+1,"Agua mineral, mineralización debil"
+2,"Agua, con gas, embotellada"
+3,Aguardiente
+4,"Anís, seco"
+5,Bebida energética
+6,Bebida isotónica
+7,"Cacao, en polvo, azucarado, bajo en calorías"
+8,"Café, con leche"
+9,"Café, en grano o molido, descafeinado"
+10,"Café, en polvo, sin reconstituir"
+11,"Café, en polvo, soluble"
+12,"Café, infusión"
+13,"Café, infusión, descafeinado"
+14,"Café, sucedáneo, soluble"
+15,Cava
+16,Cerveza con alcohol
+17,Cerveza sin alcohol
+18,"Cerveza, baja en alcohol"
+19,"Cerveza, oscura, 8°- 9°"
+20,Coñac
+21,Cubata
+22,Ginebra
+23,Horchata
+24,Infusión
+25,Licor apricot
+26,Licor benedictine
+27,Licor curaçao
+28,Licor de café
+29,Licor de crema 15-17% vol.
+30,Licores de frutas
+31,Limonada
+32,"Néctar de albaricoque, envasado"
+33,Néctar de ciruela
+34,"Néctar de frutas exóticas, envasado"
+35,"Néctar de mango, envasado"
+36,"Néctar de maracuyá, envasado"
+37,Néctar de melocotón
+38,"Néctar de naranja, envasado"
+39,"Néctar de pera, envasado"
+40,Néctar de piña
+41,Néctar de pomelo
+42,"Refresco ""tipo gaseosa"""
+43,"Refresco con gas, sabor cola, sin cafeina"
+44,"Refresco con gas, sabor cola, sin cafeina, bajo en calorías"
+45,Refresco de té
+46,"Refresco de té, bajo en calorías"
+47,"Refresco tipo ""tónica"""
+48,"Refresco, con gas, sabor naranja"
+49,"Refresco, sabor cola"
+50,"Refresco, sabor cola, bajo en calorías"
+51,"Refresco, sabor limón, con gas"
+52,"Refresco, sabor naranja, sin gas"
+53,Ron
+54,Sangría
+55,Sidra
+56,Soda
+57,"Té, infusión, con leche"
+58,Tequila
+59,"Vermut, s/e"
+60,Vino blanco
+61,"Vino dulce, tipo oporto"
+62,Vino rosado
+63,Vino tinto
+64,Vodka
+65,Whisky
+66,Zumo de grosella negra
+67,Zumo de grosella roja
+68,"Zumo de lima, envasado"
+69,"Zumo de limón, fresco"
+70,Zumo de mango
+71,Zumo de manzana
+72,Zumo de naranja
+73,Zumo de piña
+74,Zumo de piña y uva
+75,"Zumo de pomelo, envasado"
+76,"Zumo de tomate, fresco"
+77,Zumo de uva
+78,Zumo de uva y melocotón
+79,"Zumo de zanahoria, fresco"

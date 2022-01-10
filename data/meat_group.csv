@@ -1,0 +1,141 @@
+,meat_group
+0,"Avestruz, solomillo, crudo"
+1,"Bacón, ahumado, a la parrilla"
+2,"Bacon, crudo, con grasa separable"
+3,Butifarra
+4,"Cabrito lechal, costillar, asado"
+5,"Cabrito lechal, costillar, crudo"
+6,"Cabrito lechal, espalda, cruda"
+7,"Cabrito lechal, pierna, cruda"
+8,"Cabrito, parte s/e, crudo, con grasa separable"
+9,Callos de ternera
+10,"Carne de cerdo de capa blanca, cabezada, parte magra, cruda"
+11,"Carne de cerdo de capa blanca, cabezada, partes grasa y magra, crudo"
+12,"Carne de cerdo de capa blanca, chuleta, parte magra, cruda"
+13,"Carne de cerdo de capa blanca, chuleta, partes grasa y magra, cruda"
+14,"Carne de cerdo de capa blanca, jamón, parte magra, crudo"
+15,"Carne de cerdo de capa blanca, jamón, partes grasa y magra, crudo"
+16,"Carne de cerdo de capa blanca, lomo, parte magra, crudo"
+17,"Carne de cerdo de capa blanca, lomo, partes grasa y magra, crudo"
+18,"Carne de vacuno, cadera, partes magra y grasa, crudo"
+19,"Carne de vacuno, carrillera, partes magra y grasa, crudo"
+20,"Carne de vacuno, costillar, partes magra y grasa, crudo"
+21,"Carne de vacuno, lomo, partes magra y grasa, crudo"
+22,"Carne de vacuno, rabo, partes magra y grasa, crudo"
+23,"Carne de vacuno, redondo, partes magra y grasa, crudo"
+24,"Carne de vacuno, solomillo, partes magra y grasa, crudo"
+25,Carne picada
+26,Cecina
+27,"Cerdo, chuleta, crudo"
+28,"Cerdo, costilla, crudo"
+29,"Cerdo, lomo, asado"
+30,"Cerdo, lomo, crudo"
+31,"Cerdo, panceta, cruda"
+32,"Cerdo, parte sin especificar"
+33,"Cerdo, pierna, cruda, con grasa separable"
+34,"Cerdo, solomillo, asado"
+35,"Cerdo, solomillo, crudo"
+36,Chistorra
+37,Choped pork
+38,Chorizo
+39,"Ciervo, parte s/e, crudo, con grasa separable"
+40,"Conejo de granja, carne, cruda"
+41,"Conejo, entero, estofado"
+42,"Corazón de cordero, crudo"
+43,"Corazón de pollo, crudo"
+44,"Corazon de vaca, crudo"
+45,"Corazón, de cerdo, crudo"
+46,"Corazón, de vaca/buey, cocido"
+47,"Corazón, de vaca/buey, crudo"
+48,"Cordero lechal, costillar, asado"
+49,"Cordero lechal, costillar, crudo"
+50,"Cordero lechal, espalda, cruda"
+51,"Cordero lechal, pierna, cruda"
+52,"Cordero ligero, costillar, asado"
+53,"Cordero ligero, costillar, crudo"
+54,"Cordero ligero, espalda, cruda"
+55,"Cordero ligero, pierna, cruda"
+56,"Cordero, costilla, crudo"
+57,"Cordero, parte sin especificar"
+58,"Cordero, pierna, con grasa, asada"
+59,Croquetas de pollo
+60,Foie gras
+61,Fuet
+62,"Gallina, entera, cruda"
+63,"Higado de pollo, crudo"
+64,"Hígado, de cerdo, crudo"
+65,"Hígado, de vaca/buey, crudo"
+66,Jamón asado
+67,"Jamón cocido, categoría s/e"
+68,"Jamón cocido, enlatado"
+69,Jamón ibérico de bellota
+70,Jamón ibérico de cebo
+71,Jamón serrano
+72,Lacón
+73,"Lengua de cerdo, cruda"
+74,"Lengua de cordero, cruda"
+75,"Lengua, de buey, cruda"
+76,"Lengua, de ternera, cruda"
+77,"Liebre, entera, cruda"
+78,Lomo embuchado
+79,Longaniza
+80,Molleja de cordero
+81,Morcilla
+82,"Morcilla, frita"
+83,Mortadela
+84,"Oca, sin piel, asada"
+85,"Panceta, frita"
+86,"Pate de higado de cerdo, 30% de grasa"
+87,Paté de pimienta
+88,"Pato, entero, asado"
+89,"Pato, entero, crudo"
+90,"Pavo, crudo"
+91,"Pavo, fiambre"
+92,"Pavo, fiambre, bajo en grasa"
+93,"Pavo, muslo, con piel, crudo"
+94,"Pavo, pechuga, con piel, crudo"
+95,"Pavo, pechuga, sin piel, a la plancha"
+96,"Perdiz, cruda"
+97,"Pichón, sin piel, asado"
+98,"Pollo empanado, frito"
+99,"Pollo, ala, con piel, cruda"
+100,"Pollo, entero, con piel, asado"
+101,"Pollo, entero, con piel, crudo"
+102,"Pollo, fiambre"
+103,"Pollo, fiambre, bajo en grasa"
+104,"Pollo, frito"
+105,"Pollo, muslo, con piel, asado"
+106,"Pollo, muslo, con piel, crudo"
+107,"Pollo, parte sin especificar"
+108,"Pollo, pechuga, con piel, crudo"
+109,"Pollo, pechuga, plancha"
+110,"Pulmón, de cerdo, crudo"
+111,"Pulmón, de cordero, crudo"
+112,"Pulmón, de ternera, crudo"
+113,Rabo de toro
+114,"Riñón, de cordero, crudo"
+115,"Riñón, de ternera, crudo"
+116,Salami
+117,Salchicha de pollo fresca
+118,"Salchicha, fresca"
+119,"Salchicha, tipo ""frankfurt"""
+120,"Salchicha, tipo país, a la plancha"
+121,"Salchicha, tipo viena"
+122,Salchichón
+123,"Sesos, de cerdo, crudos"
+124,"Sesos, de cordero, crudos"
+125,"Sesos, de ternera, crudos"
+126,Sobrasada
+127,"Ternera, costilla, cruda"
+128,"Ternera, lomo, crudo, con grasa separable"
+129,"Ternera, parte s/e, asada"
+130,"Ternera, parte sin especificar, cruda, con grasa separable"
+131,"Ternera, solomillo, asado"
+132,"Ternera, solomillo, sin grasa, crudo"
+133,Tocino
+134,"Vaca/buey, parte s/e, asado"
+135,"Vaca/buey, parte s/e, estofado"
+136,"Vaca/buey, solomillo, a la plancha"
+137,"Vaca/buey, solomillo, crudo"
+138,"Vacuno, hígado, crudo"
+139,"Vacuno, mollejas, crudas"
