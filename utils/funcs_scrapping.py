@@ -47,9 +47,9 @@ def get_nutritional_facts(driver, item):
     relevant_facts_index = {'energy': 3, 'fats': 4, 'prot': 5, 'water': 6,
                             'fiber': 8, 'carbs': 9, 'm_unsat_fats': 12,
                             'p_unsat_fats': 13, 'sat_fats': 14, 'palm_acid': 17,
-                            'A': 26, 'D': 27, 'E': 28, 'B9': 29, 'B3': 30,
-                            'B2': 31, 'B1': 32, 'B12': 33, 'B6': 34, 'C': 35,
-                            'calcium': 37, 'iron': 38, 'potassium': 39,
+                            'chol': 20, 'A': 26, 'D': 27, 'E': 28, 'B9': 29,
+                            'B3': 30, 'B2': 31, 'B1': 32, 'B12': 33, 'B6': 34,
+                            'C': 35, 'calcium': 37, 'iron': 38, 'potassium': 39,
                             'magnesium': 40, 'sodium': 41, 'phosphorus': 42,
                             'iodide': 43, 'selenium': 44, 'zinc': 45}
     
